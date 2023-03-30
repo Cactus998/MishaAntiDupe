@@ -1,0 +1,3 @@
+name: MishaAntiDupe
+version: '${project.version}'
+main: f3f5.govno.mishaantidupe.MishaAntiDupe
